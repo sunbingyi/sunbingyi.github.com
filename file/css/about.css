@@ -1,0 +1,9 @@
+.about-list dl{margin-top: 20px;}
+.about .about-list img{position: absolute;right: 0;top:20px;width:130px;}
+.about .experence {margin-top: 100px;}
+dt,dd{line-height: 1.7!important;}
+.dl-horizontal dt{text-align: left!important;}
+.dl-horizontal dd{margin-left: 160px!important;}
+@media (max-width: 767px){
+	.about-list img{display: none;}
+}

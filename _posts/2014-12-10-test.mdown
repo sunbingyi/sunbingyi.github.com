@@ -1,0 +1,10 @@
+---
+title: "测试"
+layout: post
+date: 2014-12-10
+tag: markdown
+blog: true
+#star: true
+---
+
+测试

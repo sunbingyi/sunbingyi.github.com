@@ -375,7 +375,7 @@ pre {
 }
 .wrapper {
   height: 100%;
-  max-width: 960px;
+  max-width: 560px;
   width: 96%;
   margin: 0 auto;
 }
@@ -664,10 +664,8 @@ pre {
 }
 .header-home > .selfie {
   width: 125px;
-  height: 125px;
   margin-bottom: 25px;
-  border-radius: 50%;
-  -webkit-border-radius:50%;
+  border-radius: 100%;
 }
 .header-home > .title {
   font-size: 4rem;

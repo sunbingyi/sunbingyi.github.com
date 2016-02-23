@@ -1,0 +1,23 @@
+---
+title: "【原创作品】扁平化图标"
+layout: post
+date: 2014-12-10
+tag: markdown
+blog: true
+#star: true
+---
+
+<h3>YY</h3>
+![yy](/file/img/bianping1.jpg)
+
+<h3>扁平化相机</h3>
+![扁平化相机](/file/img/bianping2.jpg)
+
+<h3>开启</h3>
+![开启](/file/img/bianping3.jpg)
+
+<h3>聊天1</h3>
+![聊天1](/file/img/bianping4.jpg)
+
+<h3>聊天2</h3>
+![聊天2](/file/img/bianping5.jpg)

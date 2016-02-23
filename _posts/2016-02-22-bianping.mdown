@@ -1,5 +1,5 @@
 ---
-title: "【原创作品】扁平化图标"
+title: "【原创作品】扁平化设计"
 layout: post
 date: 2016-02-22
 tag: markdown

@@ -1,5 +1,5 @@
 name: 孙炳义
-bio: '测试'
+bio: '走了很远很远，只是忘记了当初为什么要出发'
 
 # main text of home
 picture: 'assets/images/profile.jpg'
@@ -23,7 +23,7 @@ disqus: mydisqus
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-# github: sunyuhui
+github: sunbingyi
 email: 358645302@qq.com
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]

@@ -305,9 +305,10 @@ a {
   text-decoration: underline;
 }
 p {
-  line-height: 1.7;
+  line-height: 1;
   color: #666;
   font-weight: 300;
+  margin:0;
   margin-bottom: 20px;
   letter-spacing: 0.4px;
 }

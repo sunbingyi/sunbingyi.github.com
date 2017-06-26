@@ -305,10 +305,9 @@ a {
   text-decoration: underline;
 }
 p {
-  line-height: 1;
+  line-height: 1.7;
   color: #666;
   font-weight: 300;
-  margin:0;
   margin-bottom: 20px;
   letter-spacing: 0.4px;
 }
@@ -376,7 +375,7 @@ pre {
 }
 .wrapper {
   height: 100%;
-  max-width: 960px;
+  max-width: 560px;
   width: 96%;
   margin: 0 auto;
 }
